@@ -15,6 +15,8 @@
  
 <div> 
 
+  ![Snake animation](https://github.com/tiemyz/tiemyz/blob/output/github-contribution-grid-snake.svg)
+
  
 </div>
 
