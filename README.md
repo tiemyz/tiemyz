@@ -8,7 +8,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Aesthetic" height="150" style="border-radius:50px;"  src="https://cdn.discordapp.com/attachments/817375635819200584/998325969758728222/e1f0f60ae84489d733c4f50f60e42fa8.gif">
+  <img align="right" alt="Aesthetic" height="150" style="border-radius:50px;"  src="http://pa1.narvii.com/6560/3f771f9cb05f341c1f688ec882c6a21562687d5f_00.gif">
 </div>
   
   ##
