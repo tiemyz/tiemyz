@@ -1,4 +1,4 @@
-## WELCOME !! <3
+## WELCOME !! :)
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Isa-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
