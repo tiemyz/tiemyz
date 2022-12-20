@@ -1,5 +1,5 @@
 <h1 align="center">
-Olá !! Sou a Isa <3  <img src="https://i.kym-cdn.com/photos/images/newsfeed/002/322/167/b9f.gif" width="70">
+Olá !! Sou a Isa <3  <img src="https://i.kym-cdn.com/photos/images/newsfeed/002/322/167/b9f.gif" width="30">
 </h1>
 
 
