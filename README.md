@@ -1,6 +1,5 @@
 <h1 align="center">
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-Olá !! Sou a Isa <3  <img src="https://i.kym-cdn.com/photos/images/newsfeed/002/322/167/b9f.gif" width="50">
+Olá !! Sou a Isa <3  <img src="https://i.kym-cdn.com/photos/images/newsfeed/002/322/167/b9f.gif" width="70">
 </h1>
 
 
