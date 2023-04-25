@@ -3,18 +3,17 @@ Olá !! Sou a Isa <3  <img src="https://i.kym-cdn.com/photos/images/newsfeed/002
 </h1>
 
 
-<img align="left"  width="47%"  src="https://github-readme-stats.vercel.app/api?username=tiemyz&show_icons=true&theme=radical" />
+<h2 style="color: #44AEFB">📊 Statistics</h2>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiemyz&layout=compact" />
+![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
 
+<div class="stats" align="center">
 
+![Tiemyz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tiemyz&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
 
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Isa-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Isa-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Isa-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Isa-java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Isa-JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+![GitHub Streak](https://streak-stats.demolab.com?user=tiemyz&count_private=true&theme=algolia&border_radius=20)
+    
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tiemyz&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 </div>
 
 
