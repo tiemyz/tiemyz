@@ -5,7 +5,7 @@ Olá !! Sou a Isa <3  <img src="https://i.kym-cdn.com/photos/images/newsfeed/002
 
 <h2 style="color: #44AEFB">📊 Statistics</h2>
 
-<div class="stats" align="center">
+<div class="stats" align="row">
 
 ![Tiemyz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tiemyz&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
 
