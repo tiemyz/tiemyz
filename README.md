@@ -3,8 +3,8 @@ Olá, sou a Isa!
 </h1>
 
 <div class="stats" style="display: inline_block" align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiemyz&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20"/>
-  <img height="180em" src="https://streak-stats.demolab.com?user=tiemyz&count_private=true&theme=algolia&border_radius=20"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tiemyz&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20"/>
+  <img height="150em" src="https://streak-stats.demolab.com?user=tiemyz&count_private=true&theme=algolia&border_radius=20"/>
 </div>
 
 <div class="lang" style="display: inline_block" align="center">
